@@ -7,7 +7,3 @@ console.log('cellphone')
 console.log('number')
 console.log('is')
 console.log(phone)
-
-console.log('nonsense')
-console.log('nonsense')
-console.log('nonsense')
