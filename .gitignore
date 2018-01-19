@@ -5,3 +5,5 @@ config
 .idea/
 config/index.js
 /secret
+/configFile.js
+configFile.js
