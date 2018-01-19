@@ -6,7 +6,4 @@ config
 config/index.js
 /secret
 /configFile.js
-configFile.js
-
-newFile.js
 /newFile.js
