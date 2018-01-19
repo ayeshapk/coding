@@ -11,3 +11,6 @@ configFile.js
 newFile.js
 !/newFile.js
 /newFile.js
+TestUpdate.js
+/TestUpdate.js
+!/TestUpdate.js
