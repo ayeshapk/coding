@@ -6,3 +6,4 @@ config
 config/index.js
 /secret
 /newFile.js
+/sydTest.js
