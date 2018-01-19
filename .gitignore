@@ -5,5 +5,4 @@ config
 .idea/
 config/index.js
 /secret
-/configFile.js
-/newFile.js
+./newFile.js
