@@ -1,0 +1,8 @@
+.next
+node_modules
+*.log
+config
+.idea/
+config/index.js
+ืnewFile.js
+codding/newFile.js
