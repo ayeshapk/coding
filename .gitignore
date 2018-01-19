@@ -10,3 +10,8 @@ configFile.js
 
 newFile.js
 /newFile.js
+
+# 2.1 Ignore file pattern everywhere
+newFile.js
+# 2.2 ...but NOT in the current directory
+!/newFile.js
