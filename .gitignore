@@ -9,5 +9,5 @@ config/index.js
 configFile.js
 
 newFile.js
-
 !/newFile.js
+/newFile.js
